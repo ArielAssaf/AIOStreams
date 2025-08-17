@@ -32,7 +32,7 @@
 
 ## ✨ What is AIOStreams?
 
-AIOStreams was created to give users ultimate control over their Stremio experience. Instead of juggling multiple addons with different configurations and limitations, AIOStreams acts as a central hub. It fetches results from all your favorite sources, then filters, sorts, and formats them according to *your* rules before presenting them in a single, clean list.
+AIOStreams was created to **** give users ultimate control over their Stremio experience. Instead of juggling multiple addons with different configurations and limitations, AIOStreams acts as a central hub. It fetches results from all your favorite sources, then filters, sorts, and formats them according to *your* rules before presenting them in a single, clean list.
 
 Whether you're a casual user who wants a simple, unified stream list or a power user who wants to fine-tune every aspect of your results, AIOStreams has you covered.
 
